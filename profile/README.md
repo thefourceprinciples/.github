@@ -8,10 +8,10 @@
 
 | Layer | System & Repository | What It Does | Live App / Runtime |
 | :--- | :--- | :--- | :--- |
-| **3. Cognitive Interface** | **Lumen Observatory**<br>`://github.com` | 10-Archetype AI governance console & 900-page recursive monograph engine powered by Three.js WebGL, CUC homeostasis (`C = O·E·H·X`), and cryptographic `Δ-Ledgers`. | `thefourceprinciples.github.io/Lumen` |
-| **2. Materials & Physics** | **HTE Resonance Observatory**<br>`://github.com` | Multimodal periodic table (`E0–Og`) combining 12-fold harmonic mapping, doping sweeps, WebAudio sonification, and 17-section `MATLAS` dossiers. | `thefourceprinciples.github.io/hte-resonance-observatory/web` |
-| **1. Engineering DAG** | **fource-md-kernel**<br>`://github.com` | Zero-dependency Python 3 verification DAG (`Δ01–Δ18`) for machine design under ASME, ISO, AGMA, VDI, and AWS codes with SHA-256 regression invalidation. | Python 3.10+ · Apache-2.0 |
-| **0. Mathematical Core** | **fource-cuc-core**<br>`://github.com` | Zero-dependency Python runtime for Fource/CUC Algebra (`PFA`, `CS`, `COA`), the `.cuc` Assembly Virtual Machine, and Phase-Locked Neural Networks. | Python 3.10+ · Apache-2.0 |
+| **3. Cognitive Interface** | **Lumen Observatory**<br>https://github.com | 10-Archetype AI governance console & 900-page recursive monograph engine powered by Three.js WebGL, CUC homeostasis (`C = O·E·H·X`), and cryptographic `Δ-Ledgers`. | https://github.io |
+| **2. Materials & Physics** | **HTE Resonance Observatory**<br>https://github.com | Multimodal periodic table (`E0–Og`) combining 12-fold harmonic mapping, doping sweeps, WebAudio sonification, and 17-section `MATLAS` dossiers. | https://github.io |
+| **1. Engineering DAG** | **fource-md-kernel**<br>https://github.com | Zero-dependency Python 3 verification DAG (`Δ01–Δ18`) for machine design under ASME, ISO, AGMA, VDI, and AWS codes with SHA-256 regression invalidation. | Python 3.10+ · Apache-2.0 |
+| **0. Mathematical Core** | **fource-cuc-core**<br>https://github.com | Zero-dependency Python runtime for Fource/CUC Algebra (`PFA`, `CS`, `COA`), the `.cuc` Assembly Virtual Machine, and Phase-Locked Neural Networks. | Python 3.10+ · Apache-2.0 |
 
 ---
 
